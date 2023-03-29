@@ -1,0 +1,21 @@
+.container_FormBus{
+    border: 3px solid #FF7F32;
+    width: 30%;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .container_PB{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Logo{
+    border-radius: 100%;
+  }
